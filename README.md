@@ -18,7 +18,7 @@ Passionate about building robust and elegant web applications, I specialize in u
 ## Get in Touch
 
 Feel free to reach out to me through GitHub or via:
-- Email: [email@example.com](mailto:email@example.com)
+- Email: [https://www.gmail.com/weletesadok](mailto:https://www.gmail.com/weletesadok)
 - Phone: [+251964792216](tel:+251964792216), [+251703272402](tel:+251703272402)
 
 Check out my portfolio at [ayele.masresha.netlify.app](https://ayele.masresha.netlify.app). I'm always eager to connect with fellow developers and explore exciting projects.
