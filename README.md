@@ -8,7 +8,7 @@ Passionate about building robust and elegant web applications, I specialize in u
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **State Management**: React-Redux Toolkit
-- **Backend**: Django
+- **Backend**: Django, Express
 - **Languages**: JavaScript/TypeScript, Python
 
 ## Availability
