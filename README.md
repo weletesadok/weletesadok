@@ -10,6 +10,7 @@ Passionate about building robust and elegant web applications, I specialize in u
 - **State Management**: React-Redux Toolkit
 - **Backend**: Django, Express
 - **Mobile**: React native
+- **Design**: figma
 - **Languages**: JavaScript/TypeScript, Python
 
 ## Availability
