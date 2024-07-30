@@ -1,8 +1,7 @@
 # Hey there! 👋 I'm Ayele Masresha
 
 ## About Me
-
-Passionate about building robust and elegant web applications, I specialize in utilizing cutting-edge technologies to create seamless user experiences. With a solid foundation in React, Redux Toolkit, Django, TypeScript, and Tailwind CSS, I thrive in dynamic environments where innovation and collaboration drive success.
+Fullstack developer at fettan solutions.
 
 ## Skills
 
