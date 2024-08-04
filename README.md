@@ -5,7 +5,7 @@ Fullstack developer at fettan solutions.
 
 ## Skills
 
-- **Frontend**: React, TypeScript, Tailwind CSS
+- **Frontend**: React, TypeScript, Tailwind CSS, MUi
 - **State Management**: React-Redux Toolkit
 - **Backend**: Django, Express
 - **Mobile**: React native
