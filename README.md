@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Ayele Masresha
 
 ## About Me
-Fullstack developer at fettan solutions.
+Fullstack developer at national bank of ethiopia.
 
 ## Skills
 
@@ -21,7 +21,6 @@ Fullstack developer at fettan solutions.
 Feel free to reach out to me through GitHub or via:
 - Email: [https://www.gmail.com/weletesadok](mailto:https://www.gmail.com/weletesadok)
 - Phone: [+251964792216](tel:+251964792216), [+251703272402](tel:+251703272402)
-- other github repo: [my previous repo](https://www.github.com/ayelemas777)
 
 Check out my portfolio at [ayelemasresha.netlify.app](https://ayelemasresha.netlify.app). I'm always eager to connect with fellow developers and explore exciting projects.
 
