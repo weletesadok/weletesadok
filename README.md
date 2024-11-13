@@ -11,6 +11,7 @@ Fullstack developer at national bank of ethiopia.
 - **Mobile**: React native
 - **Design**: figma
 - **Languages**: JavaScript/TypeScript, Python
+- - **Deployment**: Docker
 
 ## Availability
 
